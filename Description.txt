@@ -1,0 +1,13 @@
+1. Listar los elementos (OK)
+2. Paginar la lista, 10 elementos p/pag(OK)
+3. Permitir filtrar la tabla según el contenido de sus campos(OK)
+4. Dejarla andando en github pages
+
+Opcional (Medio) (ojalá lo hagan)
+1. El contenido debe ser responsivo(OK)
+
+Opcional (Avanzado)
+1. Agregar contador que me permita saber cuántos elementos hay vistos y cuantos no vistos (OK)
+2. Permitir marcar un elemento de la lista como "visto" (OK)
+3. Filtrar la lista por rango de fecha/hora (edited)
+
